@@ -3,3 +3,5 @@ python-bittrex
 python-bittrex-websocket
 python-bittrex-websocket-aio
 python-poloniex
+hitbtc
+btfxwss
